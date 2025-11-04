@@ -4,8 +4,9 @@ author: "Justine et Daphné"
 format: pdf
 ---
 
-## Quarto
+### I'm Daphné
 
+<<<<<<< HEAD
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
@@ -30,3 +31,6 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 it a me, mariooooo
 
+=======
+Yeah that's me!
+>>>>>>> c7913050cd42914a860f8de3d210332e5a05a6a8
