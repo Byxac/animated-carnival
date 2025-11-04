@@ -1,7 +1,7 @@
 ---
 title: "Main document"
 author: "Justine et Daphné"
-format: html
+format: pdf
 ---
 
 ## Quarto
